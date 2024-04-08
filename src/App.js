@@ -42,6 +42,8 @@ function App() {
       <h1>Fovourite Colour</h1>
       {colorDescription}
 
+      
+
       <div className="set-position">
         <WheelComponent
           segments={segments}
